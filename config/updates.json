@@ -9,7 +9,7 @@
     },
     "linux": {
       "open-url": "",
-      "latest-version": "2.0.1",
+      "latest-version": "1.1",
       "download-url": "https://www.dropbox.com/scl/fi/b192arwkuct07ibzuxgo6/upgradeRC791v1.0.0.zip?rlkey=dlpzhashepf32guwefz1h13d0&st=e3v84o0u&dl=1",
       "changelog": "Changelog for RC79 services module. Go on...",
       "mandatory": true
