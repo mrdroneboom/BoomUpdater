@@ -1,0 +1,18 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "https://google.com",
+      "latest-version": "1.1",
+      "download-url": "https://www.dropbox.com/scl/fi/uc8llp6omwl41nfz26iqv/YesItWorks.jpg?rlkey=1sl54k6uji9brw88q24d1u4vk&st=qtz2ufj1&dl=1",
+      "changelog": "This is an example changelog for Windows. Go on...",
+      "mandatory": false
+    },
+    "linux": {
+      "open-url": "",
+      "latest-version": "1.1",
+      "download-url": "https://www.dropbox.com/scl/fi/b192arwkuct07ibzuxgo6/upgradeRC79v1.1.zip?rlkey=dlpzhashepf32guwefz1h13d0&st=q2zre1sq&dl=1",
+      "changelog": "Changelog for RC79 1.2.18 module. Go on...",
+      "mandatory": false
+    }
+  }
+}
