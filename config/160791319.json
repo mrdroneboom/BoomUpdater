@@ -1,0 +1,18 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "1.1",
+      "download-url": "https://www.dropbox.com/scl/fi/gequ2ste6c39snb90p6ho/ModelX-V1.6.0.79-160791319.uav?rlkey=5308tq7p5nmeugjkvmd69qu4r&st=wp42se97&dl=1",
+      "changelog": "ModelX 1.3.19 module.",
+      "mandatory": false
+    },
+    "linux": {
+      "open-url": "",
+      "latest-version": "1.1",
+      "download-url": "https://www.dropbox.com/scl/fi/gequ2ste6c39snb90p6ho/ModelX-V1.6.0.79-160791319.uav?rlkey=5308tq7p5nmeugjkvmd69qu4r&st=wp42se97&dl=1",
+      "changelog": "Model 1.3.19 module.",
+      "mandatory": false
+    }
+  }
+}
