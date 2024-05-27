@@ -2,15 +2,15 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.0.2",
-      "download-url": "https://www.dropbox.com/scl/fi/f2cvhgbi026hykzp4tya6/boomtools_v2.0.1_w64?rlkey=wkmwfqjb7z6u55ipliy5r1psm&st=vjxal9g0&dl=1",
+      "latest-version": "2.0.3",
+      "download-url": "https://www.dropbox.com/scl/fi/nqbsjcg21wn68skttszhf/boomtools_2.0.3.win64?rlkey=nb6wv0py3jf2ben2hchz9wfn7&st=kldku0b4&dl=1",
       "changelog": "Boom18 Tools module.",
       "mandatory": true
     },
     "linux": {
       "open-url": "",
-      "latest-version": "2.0.2",
-      "download-url": "https://www.dropbox.com/scl/fi/n3cd0quh1xr7gztygfvyj/boomtools2.0.1?rlkey=7ksqqq9ij48mq8f4nrajudr2x&st=bgodfeuh&dl=1",
+      "latest-version": "2.0.3",
+      "download-url": "https://www.dropbox.com/scl/fi/nqbsjcg21wn68skttszhf/boomtools_2.0.3.win64?rlkey=nb6wv0py3jf2ben2hchz9wfn7&st=kldku0b4&dl=1",
       "changelog": "Boom18 Tools module.",
       "mandatory": true
     }
