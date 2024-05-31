@@ -10,7 +10,7 @@
     "linux": {
       "open-url": "",
       "latest-version": "2.0.4",
-      "download-url": "https://www.dropbox.com/scl/fi/0354jrrn4skjm2lvapwrs/boomtools_2.0.4.win64?rlkey=90dufx9xlrr1bpsytuvq4jy7e&st=pup6w3kl&dl=1",
+      "download-url": "https://www.dropbox.com/scl/fi/pd0ug8331gnq3tvnlbq06/boomtools?rlkey=mova6wn0cjjtqhzi07nz908hn&st=nr0iujfw&dl=1",
       "changelog": "Boom18 Tools module.",
       "mandatory": true
     }
