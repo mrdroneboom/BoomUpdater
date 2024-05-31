@@ -1,0 +1,18 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "1.1",
+      "download-url": "https://www.dropbox.com/scl/fi/asbup99z0bwleb59dp5eb/RC79.Neutral-V1.5.0.57-150571319.uav?rlkey=syle19x9crejq5t925hlk19xj&st=enz8qotk&dl=1",
+      "changelog": "RC79 1.3.19 module.",
+      "mandatory": false
+    },
+    "linux": {
+      "open-url": "",
+      "latest-version": "1.1",
+      "download-url": "https://www.dropbox.com/scl/fi/asbup99z0bwleb59dp5eb/RC79.Neutral-V1.5.0.57-150571319.uav?rlkey=syle19x9crejq5t925hlk19xj&st=enz8qotk&dl=1",
+      "changelog": "RC79 1.3.19 module.",
+      "mandatory": false
+    }
+  }
+}
