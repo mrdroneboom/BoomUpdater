@@ -3,14 +3,14 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.1",
-      "download-url": "https://www.dropbox.com/scl/fi/aqwwp0qof6uvb0x1zz5lp/RC79.Neutral-V1.6.0.59-160591437.uav?rlkey=8enidqt5djdeo0pioskbne1fh&st=rg7nru5v&dl=1",
+      "download-url": "https://www.dropbox.com/scl/fi/dqe8p9aypae9bjgfsk3p0/RC79.Neutral-V1.6.0.59-160591437.uav?rlkey=oery8yhynve0cjlj0op1vsfzb&st=3k9pi4xc&dl=1",
       "changelog": "RC79 1.4.37 module.",
       "mandatory": false
     },
     "linux": {
       "open-url": "",
       "latest-version": "1.1",
-      "download-url": "https://www.dropbox.com/scl/fi/aqwwp0qof6uvb0x1zz5lp/RC79.Neutral-V1.6.0.59-160591437.uav?rlkey=8enidqt5djdeo0pioskbne1fh&st=rg7nru5v&dl=1",
+      "download-url": "https://www.dropbox.com/scl/fi/dqe8p9aypae9bjgfsk3p0/RC79.Neutral-V1.6.0.59-160591437.uav?rlkey=oery8yhynve0cjlj0op1vsfzb&st=3k9pi4xc&dl=1",
       "changelog": "RC79 1.4.37 module.",
       "mandatory": false
     }
