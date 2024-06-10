@@ -4,14 +4,14 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.1",
-      "download-url": "https://www.dropbox.com/scl/fi/533t5p28fkajcirui06jk/upgrade_v1.1.zip?rlkey=87a3qjr8c4sjk37iqxf3l6epc&st=dk0rlsqd&dl=1",
+      "download-url": "https://www.dropbox.com/scl/fi/533t5p28fkajcirui06jk/upgrade_v1.1.zip?rlkey=955jbnllh18wwu504enutflqc&st=75rruhnz&dl=1",
       "changelog": "RC79 services module.",
       "mandatory": false
     },
     "linux": {
       "open-url": "",
       "latest-version": "1.1",
-      "download-url": "https://www.dropbox.com/scl/fi/533t5p28fkajcirui06jk/upgrade_v1.1.zip?rlkey=87a3qjr8c4sjk37iqxf3l6epc&st=dk0rlsqd&dl=1",
+      "download-url": "https://www.dropbox.com/scl/fi/533t5p28fkajcirui06jk/upgrade_v1.1.zip?rlkey=955jbnllh18wwu504enutflqc&st=75rruhnz&dl=1",
       "changelog": "RC79 services module.",
       "mandatory": false
     }
